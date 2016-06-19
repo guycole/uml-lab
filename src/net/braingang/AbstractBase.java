@@ -1,7 +1,7 @@
 package net.braingang;
 
 /**
- * Created by gsc on 6/19/16.
+ *
  */
 public abstract class AbstractBase {
 

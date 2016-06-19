@@ -1,9 +1,9 @@
 package net.braingang;
 
 /**
- * Created by gsc on 6/19/16.
+ *
  */
-public class ConcreteChild extends AbstractBase {
+public class ConcreteChild extends AbstractBase implements InterfaceExample {
 
     public ConcreteChild() {
         super("testaroo");
